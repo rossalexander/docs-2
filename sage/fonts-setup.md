@@ -1,13 +1,13 @@
 ---
 date_modified: 2023-02-20 11:30
 date_published: 2023-02-20 11:30
-description: How to setup fonts in Sage 10 for both the front-end and the WordPress editor with `theme.json`.
-title: How to Setup Fonts
+description: How to set up fonts in Sage 10 for both the front-end and the WordPress editor with `theme.json`.
+title: How to Set Up Fonts
 authors:
   - ben
 ---
 
-# How to Setup Fonts
+# How to Set Up Fonts
 
 Sage 10 includes an empty `resources/fonts/` directory for you to use for any fonts you want to use in your theme.
 
